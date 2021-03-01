@@ -3,7 +3,7 @@ body {
     min-height: 100vh;
     padding: 4rem 0;
     font-family: sans-serif;
-    background-color: dodgerblue;
+    background: linear-gradient(0.25turn, #1e90ff, #99cdff);
     color: #222;
 }
 
@@ -20,11 +20,10 @@ h2 {
 .box {
     text-align: center;
     padding: 10px;
-    background: rgba(199, 86, 58, 0.8);
+    background: linear-gradient(0.25turn, #ac3d31, #b36961);
     border: 1px solid rgba(0,0,0, .4);
 }
 
 .container.padding {
     padding-top: 3rem;
 }
-
