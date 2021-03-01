@@ -24,3 +24,7 @@ h2 {
     border: 1px solid rgba(0,0,0, .4);
 }
 
+.container.padding {
+    padding-top: 3rem;
+}
+
