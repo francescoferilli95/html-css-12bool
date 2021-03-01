@@ -1,0 +1,26 @@
+
+body {
+    min-height: 100vh;
+    padding: 4rem 0;
+    font-family: sans-serif;
+    background-color: dodgerblue;
+    color: #222;
+}
+
+h1,h2 {
+    margin-bottom: 2rem;
+    font-weight: 400;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 2rem;
+}
+
+.box {
+    text-align: center;
+    padding: 10px;
+    background: rgba(199, 86, 58, 0.8);
+    border: 1px solid rgba(0,0,0, .4);
+}
+
